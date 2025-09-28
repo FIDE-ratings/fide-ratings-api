@@ -1,0 +1,13 @@
+## Java
+
+*.jar
+*.class
+
+## database
+
+resources/db
+
+## vs code
+
+.vscode/
+.code-workspace
