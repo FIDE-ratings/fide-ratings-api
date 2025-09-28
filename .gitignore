@@ -5,7 +5,9 @@
 
 ## database
 
-resources/db
+src/main/resources/db
+target/classes/db
+*.db
 
 ## vs code
 
