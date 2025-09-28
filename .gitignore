@@ -3,11 +3,11 @@
 *.jar
 *.class
 
-## database
+## database - no need in .gitignore anymore
 
-src/main/resources/db
-target/classes/db
-*.db
+# src/main/resources/db
+# target/classes/db
+# *.db
 
 ## vs code
 
