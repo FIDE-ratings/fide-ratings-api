@@ -2,6 +2,7 @@
 
 *.jar
 *.class
+*.lst
 
 ## database - no need in .gitignore anymore
 

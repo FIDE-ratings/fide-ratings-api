@@ -1,0 +1,15 @@
+fide/ratings/api/exception/ResourceNotFoundException.class
+fide/ratings/api/enums/Flag.class
+fide/ratings/api/controller/PlayerController.class
+fide/ratings/api/exception/PlayerNotFoundException.class
+fide/ratings/api/config/SwaggerConfig.class
+fide/ratings/api/repository/PlayerRepository.class
+fide/ratings/api/enums/Countries.class
+fide/ratings/api/enums/Gender.class
+fide/ratings/api/service/PlayerService.class
+fide/ratings/api/entity/Player.class
+fide/ratings/api/FideRatingsApiApplication.class
+fide/ratings/api/enums/RatingTypes.class
+fide/ratings/api/dto/PlayerDTO.class
+fide/ratings/api/config/DatabaseConfig.class
+fide/ratings/api/repository/PlayerRowMapper.class
